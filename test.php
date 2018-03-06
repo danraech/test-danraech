@@ -19,8 +19,8 @@
 <h4>Hola</h4>
 <h4>Interesante</h4>
 <h4>Otra vez</h4>
-<h1>TEst</h1>
-<h4>prueba desde compu en casa - lety</h4>
-<h4>prueba2 desde compu en casa - lety</h4>
+<h1>TEst,...</h1>
+<h4>prueba en casa</h4>
+<h4>prueba en casa - lety</h4>
 </body>
 </html>
